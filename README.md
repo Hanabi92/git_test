@@ -1,0 +1,1 @@
+This is Hamad's first git project
